@@ -2,6 +2,11 @@
 Control bezier curves in a 3 dimensional space with user input via Hermite derivatives
 ![](https://github.com/kevdozer1/adjustableEllipse/blob/main/adjustableEllipse.gif)
 # Overview
-Blah
+This is an OpenGL project written in Javascript and ran on an HTML page.
+
+The program contains two frames. 
+One frame contains two endpoints and two control points in which a bezier curve is formed. A dotted line shows the unweighted curve, and the weighted curve is constructed in the second frame in red. An animation can be played showing the shape of this bezier curve. The speed of this animation can be adjusted.
+The second frame shows three vectors in a 3D space in which the red bezier curve is drawn. A blue bezier curve reconnects the red curve to create a complete shape. A star object controlled by a slider can trace the form of this completed shape.
+
 # How to run
 Extract all files from compressed folder and then open the HTML file to run the program.
