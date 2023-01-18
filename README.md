@@ -2,7 +2,7 @@
 Control bezier curves in a 3 dimensional space with user input via Hermite derivatives
 ![](https://github.com/kevdozer1/adjustableEllipse/blob/main/adjustableEllipse.gif)
 # Overview
-This is an OpenGL project written in Javascript and ran on an HTML page.
+This is an WebGL project written in Javascript and ran on an HTML page.
 
 The program contains two frames. 
 
